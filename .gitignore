@@ -4,3 +4,4 @@
 **/.vscode
 **/mlruns
 **mlartifacts
+**/mnist_data
