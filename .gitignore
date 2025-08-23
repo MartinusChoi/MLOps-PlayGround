@@ -5,3 +5,6 @@
 **/mlruns
 **mlartifacts
 **/mnist_data
+**/secret/
+**/scret.py
+**/__pycache__
