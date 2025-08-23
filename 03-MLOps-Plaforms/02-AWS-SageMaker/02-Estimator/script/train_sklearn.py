@@ -68,7 +68,7 @@ def get_model(param_set):
 
 def main():
     mlflow.set_tracking_uri(
-        "arn:aws:sagemaker:ap-southeast-2:954690186719:mlflow-tracking-server/SKLearn-Estimator-Local-Lab"
+        "arn:aws:sagemaker:ap-southeast-2:954690186719:mlflow-tracking-server/Local-Sklearn-Estimator-Lab"
     )
 
     args,_ = parse_args()
