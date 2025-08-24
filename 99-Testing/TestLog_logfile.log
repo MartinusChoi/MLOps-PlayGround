@@ -1,0 +1,5 @@
+[DEBUG] 2025-08-24 22:06:20,276 log.py:16 - Debugging Message
+[INFO] 2025-08-24 22:06:20,276 log.py:17 - Info Message
+[WARNING] 2025-08-24 22:06:20,276 log.py:18 - Warning Message
+[ERROR] 2025-08-24 22:06:20,277 log.py:19 - Error Messgae
+[CRITICAL] 2025-08-24 22:06:20,277 log.py:20 - Critical Message
