@@ -6,5 +6,5 @@
 **mlartifacts
 **/mnist_data
 **/secret/
-**/scret.py
+**/secret.py
 **/__pycache__

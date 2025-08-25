@@ -1,10 +1,8 @@
 from sklearn.ensemble import RandomForestClassifier
 
-def get_model(param_set):
-    model = RandomForestClassifier(
-        n_estimators = param_set['n_estimators'],
-        max_depth = param_set['max_depth'],
-        max_features = param_set['max_features']
+def get_randomforest_clf(args):
+    return RandomForestClassifier(
+        n_estimators=args.n_estimators,
+        max_depth=args.max_depth,
+        max_features=args.max_features
     )
-
-    return model
